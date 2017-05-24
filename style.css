@@ -1,0 +1,11 @@
+.container p{
+font-size: 1.5 em;	
+}
+.banner {
+    background: url(./img/banner.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.banner_text{
+    color: #fff;
+}
